@@ -4,5 +4,6 @@
   "dependencies": {
     "pusher": "~2.2.4"
   },
-  "analytics": false
+  "analytics": false,
+  "test":true
 }
