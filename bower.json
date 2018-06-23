@@ -1,0 +1,8 @@
+{
+  "name": "rfx",
+  "version": "0.0.0",
+  "dependencies": {
+    "pusher": "~2.2.4"
+  },
+  "analytics": false
+}
